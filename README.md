@@ -1,6 +1,8 @@
 # Mods for zen browser
 
-# Mute remover for essential tabs
+# Zen Mod: Mute Remover for Essentials
+
+Removes the mute symbol from essential tabs.
 
 ![screenshot](./remove-mute-from-essentials/remove-mute.png)
 
