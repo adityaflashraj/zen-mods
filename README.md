@@ -1,2 +1,2 @@
-# zen-mods
-Repo for zen browser mods
+# Mods for zen browser
+
