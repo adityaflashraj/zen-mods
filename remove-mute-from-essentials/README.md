@@ -1,7 +1,7 @@
 # Zen Mod: Tab rename fix
 
-Better visibility of tab renaming by inverting the selected text colors.
+Removes the mute symbol from essential tabs.
 
-![screenshot] %(./remove-mute.png)
+![screenshot](./remove-mute.png)
 
 [Source code at GitHub](https://github.com/adityaflashraj/zen-mods)
